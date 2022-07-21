@@ -1,0 +1,13 @@
+/* style.css */
+
+#title, .recipe-name {
+	color: gold;
+	font-size: 36px;
+	font-family: Helvetica, sans-serif;
+}
+
+.recipe-name {
+	color: black;
+	font-size: 24px;
+	text-align: left;
+}
